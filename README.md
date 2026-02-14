@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+#### I'm a lawyer, civil servant and economics student at the Federal University of São Paulo.
+#### Also interested in developing abilities in Data Analysis/Data Science and its tools (such as Knime Analytics, Python, and VBA)
 <!--
 **ramonfroes/ramonfroes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
