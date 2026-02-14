@@ -2,16 +2,9 @@
 
 **`Advogado, estudante de economia, servidor público`**
 
-Olá, sou o Ramon. Tenho 24 anos, sou advogado, estudante de ciências econômicas na Escola Paulista de Política, Economia e Negócios (EPPEN-UNIFESP) e servidor municipal na Secretaria de Administração. Nos meus anos de experiência trabalhando com direito tributário e com grande volume de informações desenvolvi interesse por ferramentas de análise de dados, aprendi a criar soluções com programação em MS-VBA e Knime Analytics, também tenho estudado python e R. Atualmente, tenho tentado introduzir uma cultura data driven na Administração Pública.
+Olá, sou o Ramon. Tenho 24 anos, sou advogado, estudante de ciências econômicas na Universidade Federal de São Paulo e servidor público municipal. Nos meus anos de experiência trabalhando com direito tributário e com grande volume de informações desenvolvi interesse por ferramentas de análise de dados, aprendi a criar soluções com programação em MS-VBA e Knime Analytics, também tenho estudado python e R. Atualmente, tenho tentado introduzir uma cultura data driven na Administração Pública.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
@@ -19,18 +12,18 @@ Olá, sou o Ramon. Tenho 24 anos, sou advogado, estudante de ciências econômic
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ramonfroes?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/ramonfroes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/ramonfroes?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/ramonfroes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
