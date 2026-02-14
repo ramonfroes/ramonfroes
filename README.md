@@ -1,7 +1,3 @@
-## Hi there 👋
-#### I'm a lawyer, civil servant and economics student at the Federal University of São Paulo.
-#### Also interested in developing abilities in Data Analysis/Data Science and its tools (such as Knime Analytics, Python, and VBA)
-
 # Ramon Fróes
 
 **`Advogado, estudante de economia, servidor público`**
