@@ -22,6 +22,22 @@ Olá, sou o Ramon. Tenho 24 anos, sou advogado, estudante de ciências econômic
 /></a>
 <img 
     align="left" 
+    alt="VBA" 
+    title="VBA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/ramonfroes/icons/blob/b6ba3d2554f9b84fab7ab05cb1ffb7bd96143a00/vba-svgrepo-com.svg" 
+/>
+<img 
+    align="left" 
+    alt="KNIME" 
+    title="KNIME"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://forum-cdn.knime.com/uploads/default/original/1X/ab3ccf34482a0329361734a18199390177204f15.png" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -35,12 +51,4 @@ Olá, sou o Ramon. Tenho 24 anos, sou advogado, estudante de ciências econômic
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/r/r-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="KNIME" 
-    title="KNIME"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://forum-cdn.knime.com/uploads/default/original/1X/ab3ccf34482a0329361734a18199390177204f15.png" 
 />
