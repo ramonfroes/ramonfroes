@@ -4,7 +4,7 @@
 
 Olá, sou o Ramon. Tenho 24 anos, sou advogado, estudante de ciências econômicas na Universidade Federal de São Paulo e servidor público municipal. Nos meus anos de experiência trabalhando com direito tributário e com grande volume de informações desenvolvi interesse por ferramentas de análise de dados, aprendi a criar soluções com programação em MS-VBA e Knime Analytics. Atualmente, tenho tentado introduzir uma cultura data driven na Administração Pública.
 
-Tive a oportunidade de fazer um curso de ciência de dados na Escola Nacional de Ciências Estatísticas do IBGE, no qual utilizei dados do SIDRA por meio de python no projeto de conclusão.
+Tive a oportunidade de fazer um curso de ciência de dados na Escola Nacional de Ciências Estatísticas do IBGE, no qual utilizei dados do SIDRA por meio de python no [projeto de conclusão](https://github.com/ramonfroes/IBGE/blob/main/SIDRAPY.ipynb).
 
 ---
 
