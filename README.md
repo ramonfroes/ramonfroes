@@ -8,6 +8,18 @@ Olá, sou o Ramon. Tenho 24 anos, sou advogado, estudante de ciências econômic
 
 ### 
 
+<div> 
+  <a 
+      href="https://www.linkedin.com/in/ramonfroes" 
+      target="_blank">
+<img 
+    align="left" 
+    alt="Linkedin" 
+    title="Linkedin"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linkedin/linkedin-original.svg" 
+/></a>
 <img 
     align="left" 
     alt="Python" 
@@ -16,13 +28,19 @@ Olá, sou o Ramon. Tenho 24 anos, sou advogado, estudante de ciências econômic
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-### 
-
-<div> 
-  <a href="https://www.linkedin.com/in/ramonfroes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
-</p>
+<img 
+    align="left" 
+    alt="R" 
+    title="R"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/r/r-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="KNIME" 
+    title="KNIME"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://forum-cdn.knime.com/uploads/default/original/1X/ab3ccf34482a0329361734a18199390177204f15.png" 
+/>
